@@ -4,16 +4,8 @@
     "Message": "Status",
     "Data": [
       {
-        "id": "1",
-        "nome": "Em atendimento"
-      },
-      {
-        "id": "2",
-        "nome": "Concluído"
-      },
-      {
-        "id": "3",
-        "nome": "Cancelado"
+        "nome_arquivo": "declaracao_permanencia.pdf",
+        "nome": "http://www.unimedrio.com.br/declaracao_permanencia.pdf"
       }
     ]
   },
