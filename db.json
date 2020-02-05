@@ -1,7 +1,7 @@
 {
   "gets": {
     "Result": 1,
-    "Message": "Status",
+    "Message": "Declaração de Permanencia",
     "Data": [
       {
         "nome_arquivo": "declaracao_permanencia.pdf",
