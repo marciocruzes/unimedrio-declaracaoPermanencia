@@ -1,15 +1,22 @@
-  
 {
-  "gets": 
-    {
-            "Result": 1,
-            "Message": "PDF da Declaração de Permanência",
-            "Data": {
-                "nome_arquivo": "declaracao_permanencia.pdf",
-                "link":"http://www.unimedrio.com.br/static/pdf/declaracao_permanencia.pdf"
-            }
-    }
-  ,
+  "gets": {
+    "Result": 1,
+    "Message": "Status",
+    "Data": [
+      {
+        "id": "1",
+        "nome": "Em atendimento"
+      },
+      {
+        "id": "2",
+        "nome": "Concluído"
+      },
+      {
+        "id": "3",
+        "nome": "Cancelado"
+      }
+    ]
+  },
   "comments": [
     {
       "id": 1,
