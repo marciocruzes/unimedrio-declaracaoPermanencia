@@ -1,8 +1,28 @@
+  
 {
-    "Result": 1,
-    "Message": "PDF da Declaração de Permanência",
-    "Data": {
-        "nome_arquivo": "declaracao_permanencia.pdf",
-        "link":"http://www.unimedrio.com.br/static/pdf/declaracao_permanencia.pdf"
+  "gets": 
+    {
+            "Result": 1,
+            "Message": "PDF da Declaração de Permanência",
+            "Data": {
+                "nome_arquivo": "declaracao_permanencia.pdf",
+                "link":"http://www.unimedrio.com.br/static/pdf/declaracao_permanencia.pdf"
+            }
     }
+  ,
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
